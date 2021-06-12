@@ -9,7 +9,13 @@ In this project, to test the efficiency of the model we have used the Adience be
 
 We splited the data into training and testing set with 13000 and 3249 data smaples, respectively.
 
-## Test the COde
+## Test the code
+
+You can run the following code to test the system:
+```
+cd Code
+python CNN_A.py
+```
 
 ## Model Accuracy
 
