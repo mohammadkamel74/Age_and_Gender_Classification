@@ -1,6 +1,6 @@
 # Age_and_Gender_Classification
 
-This projetc is a reimplementation of this [paper](https://ieeexplore.ieee.org/document/7301352). Actually in our implementation, an attempt is made to modify the architecture of the paper in a way to be able to train the modlel with fewer parameters and training time with comparable performance.
+This projetc is a reimplementation of this [paper](https://ieeexplore.ieee.org/document/7301352). Actually in our implementation, an attempt is made to modify the architecture of the paper in a way to be able to train the modlel with fewer parameters and training time with comparable performance. In this project we have compared the efficiency of using CNN and ResNet-18 for Age and Gender Classification task.
  
 ## Dataset
 
