@@ -9,4 +9,13 @@ In this project, to test the efficiency of the model we have used the Adience be
 
 We splited the data into training and testing set with 13000 and 3249 data smaples, respectively.
 
+## Test the COde
+
+## Model Accuracy
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
