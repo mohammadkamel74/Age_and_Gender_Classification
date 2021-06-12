@@ -13,9 +13,22 @@ We splited the data into training and testing set with 13000 and 3249 data smapl
 
 ## Model Accuracy
 
-| First Header  | Second Header |
+### for gender classification
+
+| Model  |  Accuracy |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| CNN  | 77.72  |
+| ResNet-18  | 71.96  |
+| VGG-16  | 79.31  |
+| Original Paper  | 85.9  |
+
+### for age classification
+
+| Model  |  Accuracy |
+| ------------- | ------------- |
+| CNN  | 46.66  |
+| ResNet-18  | 48.11  |
+| Original Paper  | 49.5  |
+
 
 
