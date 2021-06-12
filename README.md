@@ -1,6 +1,7 @@
 # Age_and_Gender_Classification
 
-
+This projetc is a reimplementation of this [paper](https://ieeexplore.ieee.org/document/7301352). Acyually in our implementation, an attempt is made to modofy the arch in a way to be able to train the modlel using less parameters and training time with comparable performance.
+ 
 ## Dataset
 
 In this project, to test the efficiency of the model we have used the Adience benchmark which is designed for age and gender classification task. The dataste needs some preprocessing which has been done as a part of the project. The preprocessed version of the dataset can be downloaded from [here](https://drive.google.com/drive/folders/1d0qAw7UvqKhXcu_7I6yTv3mGrxhSLD2Z?usp=sharing
