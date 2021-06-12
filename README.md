@@ -14,7 +14,8 @@ We splited the data into training and testing set with 13000 and 3249 data smapl
 You can run the following code to test the system:
 ```
 cd Code
-python CNN_A.py #for age classification using CNN
+python CNN_A.py    #for age classification using CNN
+python CNN_G.py    #for Gender classification using CNN
 ```
 
 ## Model Accuracy
